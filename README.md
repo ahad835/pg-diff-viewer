@@ -1,6 +1,7 @@
 # pg-diff-viewer
 
 🔍 A powerful CLI tool to compare two PostgreSQL databases — table-by-table.  
+
 Validate schema equality, row counts, and even full row-by-row data — perfect for database sync checks, migrations, and ETL verification.  
 Future-ready for UI extensions.
 
